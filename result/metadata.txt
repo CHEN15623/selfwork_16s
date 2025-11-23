@@ -1,0 +1,19 @@
+SampleID	Group	Description
+KO1	KO	Knock-out replicate 1
+KO2	KO	Knock-out replicate 2
+KO3	KO	Knock-out replicate 3
+KO4	KO	Knock-out replicate 4
+KO5	KO	Knock-out replicate 5
+KO6	KO	Knock-out replicate 6
+OE1	OE	Over-expresion replicate 1
+OE2	OE	Over-expresion replicate 2
+OE3	OE	Over-expresion replicate 3
+OE4	OE	Over-expresion replicate 4
+OE5	OE	Over-expresion replicate 5
+OE6	OE	Over-expresion replicate 6
+WT1	WT	Wild-type replicate 1
+WT2	WT	Wild-type replicate 2
+WT3	WT	Wild-type replicate 3
+WT4	WT	Wild-type replicate 4
+WT5	WT	Wild-type replicate 5
+WT6	WT	Wild-type replicate 6
